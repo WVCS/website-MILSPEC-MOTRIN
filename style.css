@@ -9,14 +9,14 @@ img {
 }
 
 img {
-	border: 10px groove #8B0000
+	border: 10px groove #8B0000;
 }
 
 
 
 h1 {
 	color: darkred;
-	text-decoration-line: underline
+	text-decoration-line: underline;
 }
 ul {
 	list-style-type:upper-roman;
